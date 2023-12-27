@@ -39,16 +39,14 @@ The code is designed to enable self-driving cars to actually drive. The car is a
 
 ## 🔥Demonstration
 Below is a picture of a demonstration of the autonomous driving code. 
+The full operation video can be found from [here](https://www.youtube.com/watch?v=fs8TN8oykco).
 
 <img width="392" alt="스크린샷 2023-12-27 오후 5 08 20" src="https://github.com/JunBro1016/sewerage-damage-detection/assets/82267460/0eef1964-d4a9-4007-bcfd-668af7bbcf2f">
 
-The full operation video can be found from [here](https://www.youtube.com/watch?v=fs8TN8oykco) 
-
 Below is a picture of a demonstration of the object detection code. 
+The full operation video can be found from [here](https://www.youtube.com/watch?v=3O03KimKHRs).
 
 <img width="505" alt="스크린샷 2023-12-27 오후 5 09 27" src="https://github.com/JunBro1016/sewerage-damage-detection/assets/82267460/b8a15804-f225-4a18-b3c1-a0dc022dae7d">
-
-The full operation video can be found from [here](https://www.youtube.com/watch?v=3O03KimKHRs) 
 
 -----
 
