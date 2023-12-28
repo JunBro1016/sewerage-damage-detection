@@ -1,7 +1,7 @@
 # K-water Big Data Competition 💧
 ## Automative Sewage Damage Detection and Classification: Real-time AI & Self-driving Drone
 
-This repository conatains codes descriptions submitted to **K-Water Big Data Competition**. Below are the frameworks used for the project.
+This repository conatains codes and descriptions submitted to **K-Water Big Data Competition**. Below are the frameworks used for the project.
 
 <div align="left">
    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
