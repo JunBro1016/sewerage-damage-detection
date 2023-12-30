@@ -10,7 +10,7 @@ This repository conatains codes and descriptions submitted to **K-Water Big Data
    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
 </div>
 
-## 📄Code Description
+## 1. Code Description 📝
 ### real-time-object-detection.ipynb
 This code **connects devices on the same network in real time**. Since the goal of our project is to detect sewage damages in real time, we load **YOLOv8 model that trained with custome dataset**. This code uses CV2 library to capture images with camera so that the loaded model can recognize the breakage of the sewer in real time.
 
@@ -37,7 +37,7 @@ The code is designed to enable self-driving cars to actually drive. The car is a
 
 -----
 
-## 🔥Demonstration
+## 2. Demonstration 🔥
 Below is a picture of a demonstration of the autonomous driving code. 
 The operation video can be found from [here](https://www.youtube.com/watch?v=fs8TN8oykco).
 
@@ -50,5 +50,5 @@ The operation video can be found from [here](https://www.youtube.com/watch?v=3O0
 
 -----
 
-## 🏆Awards
+## 3. Awards 🏆
 🥉3rd place
